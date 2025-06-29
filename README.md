@@ -1,2 +1,5 @@
-#api-made-simple 
-could be usefull to test apis 
+# api-made-simple 
+- tryting to learn Gio ui layouts with a calculator.
+
+
+
